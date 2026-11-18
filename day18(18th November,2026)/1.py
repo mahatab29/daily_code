@@ -1,0 +1,1 @@
+print("tejhe khoke aj sajna .... mera din nehi lagda 8,,..,,8  .") 
